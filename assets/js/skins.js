@@ -1,4 +1,4 @@
-fetch('/kyflak.github.io/data/skins.json')
+fetch('/kl3hh.io/data/skins.json')
   .then(res => res.json())
   .then(data => {
     const container = document.getElementById("skins-container");
@@ -58,4 +58,5 @@ fetch('/kyflak.github.io/data/skins.json')
   .catch(err => {
     console.error("Error cargando las skins:", err);
   });
+
 
