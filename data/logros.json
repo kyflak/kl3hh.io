@@ -1,0 +1,180 @@
+{
+  "logros": [
+    {
+      "torneo": "SMMT 15",
+      "puesto": "1st place",
+      "anio": 2020,
+      "modo": "mania",
+      "descripcion": "Chill tournament, non-badged, basically my first tournament experience.",
+      "team": false,
+      "equipo": "",
+      "imagen": "",
+      "enlace": "https://osu.ppy.sh/community/forums/topics/1015318"
+    },
+    {
+      "torneo": "Score Attack Showdown",
+      "puesto": "2nd place",
+      "anio": 2020,
+      "modo": "mania",
+      "descripcion": "First actual 1v1 worldwide tournament I played, format fucked me up but regardless I had tons of fun!",
+      "team": false,
+      "equipo": "",
+      "imagen": "",
+      "enlace": "https://osu.ppy.sh/wiki/en/Tournaments/SAS/1"
+    },
+    {
+      "torneo": "Springtime Osu!mania Free-for-all Tournament 5",
+      "puesto": "1st place",
+      "anio": 2021,
+      "modo": "mania",
+      "descripcion": "My first badge ever, and probably one of my most consistency showdown in tournaments, I had a bless playing this and it's without a doubt one of the greatest experiences of my osu!mania carreer.",
+      "team": false,
+      "equipo": "",
+      "imagen": "https://i.ppy.sh/06dfbddeee1be87b22e2c26c5a3e0e5f9f951aa0/68747470733a2f2f6f73752e7070792e73682f77696b692f696d616765732f546f75726e616d656e74732f534f46542f352f696d672f6c6f676f2e706e67",
+      "enlace": "https://osu.ppy.sh/wiki/en/Tournaments/SOFT/5"
+    },
+    {
+      "torneo": "osu!mania 4K World Cup 2021",
+      "puesto": "Top 16-12 (lost to Indonesia 4-6 in quarterfinals)",
+      "anio": 2021,
+      "modo": "mania",
+      "descripcion": "First World Cup I played with great teammates, great individual performance and shame we weren't able to get further, but a great experience nonetheless!",
+      "team": true,
+      "equipo": "Chile (kanocchi 3, Urusai, Stupud_cL, Rhyzt_cL, Jeanne Da Rin, faz_cL)",
+      "imagen": "https://i.ppy.sh/3cd5e9899233c9e699ab3c93a76e8bc0f44c408d/68747470733a2f2f6f73752e7070792e73682f77696b692f696d616765732f7368617265642f6e6577732f62616e6e6572732f6d7763346b2d323032312e6a7067",
+      "enlace": "https://osu.ppy.sh/wiki/en/Tournaments/MWC/2021_4K"
+    },
+    {
+      "torneo": "RGW 4K 2021",
+      "puesto": "1st place",
+      "anio": 2021,
+      "modo": "mania",
+      "descripcion": "Don't remember much to be honest, it was pretty interesting",
+      "team": true,
+      "equipo": "Me and Eliminate",
+      "imagen": "https://assets.ppy.sh/topic-covers/8760/c17a4ac05942f6f2cecc31abb8079fa2631cb41123453b1bad0f8a0d27501143.png",
+      "enlace": "https://osu.ppy.sh/community/forums/topics/1441567?n=1"
+    },
+    {
+      "torneo": "Tournamint 3.0+1.0 Thrice Upon a Time",
+      "puesto": "3rd place",
+      "anio": "2021-2022",
+      "modo": "mania",
+      "descripcion": "NGL this tournament was very frustrating, I played very bad but it was a bless to share with my friends.",
+      "team": true,
+      "equipo": "TTV Eliminate294 (Eliminate, me and AdamAckerville)",
+      "imagen": "https://i.ppy.sh/d8036a25ae39ef85b103fa97266c60226a1d9fb5/68747470733a2f2f696d6775722d617263686976652e7070792e73682f646973636f72642f3833383535313038353633353037363137362d3839313434393239323432303730323230382d756e6b6e6f776e2e706e67",
+      "enlace": "https://osu.ppy.sh/community/forums/topics/1427851?n=1"
+    },
+    {
+      "torneo": "Touhou Project Mania Cup 2nd",
+      "puesto": "Top 12-8th (lost to offbrand mwc by default (we were playing VALORANT and forgot about the match lol)",
+      "anio": 2022,
+      "modo": "mania",
+      "descripcion": "I barely have any memories about this tournament tbh LMAO.",
+      "team": true,
+      "equipo": "Team Pixula (Rhyzt_cL, Xan-, [GS]Myuka, [LS]Choc_cL)",
+      "imagen": "https://i.ppy.sh/a1eaed1930b14408e4b86fee619b38d2f69c3fc9/68747470733a2f2f6f73752e7070792e73682f77696b692f696d616765732f546f75726e616d656e74732f544d432f326e642f696d672f6c6f676f2e706e67",
+      "enlace": "https://osu.ppy.sh/wiki/en/Tournaments/TMC/2nd"
+    },
+    {
+      "torneo": "Springtime osu!mania Free-for-all Tournament 6",
+      "puesto": "1st place",
+      "anio": 2022,
+      "modo": "mania",
+      "descripcion": "Holy scuffed tournament for me, I had fun as always but it was quite challenging specially with the skill level requiured to win this tournament, but I did it and I'm very proud of it.",
+      "team": false,
+      "equipo": "",
+      "imagen": "https://i.ppy.sh/5457b46a7d89d5c721d44bf02d3c7bdbf7c82756/68747470733a2f2f6f73752e7070792e73682f77696b692f696d616765732f546f75726e616d656e74732f534f46542f362f696d672f6c6f676f2e6a7067",
+      "enlace": "https://osu.ppy.sh/wiki/en/Tournaments/SOFT/6"
+    },
+    {
+      "torneo": "osu!mania 4K World Cup 2022",
+      "puesto": "Top 16-12 (lost to Indonesia 3-6 in quarterfinals (again))",
+      "anio": 2022,
+      "modo": "mania",
+      "descripcion": "Did well, but we did what we could specially with the difficulties we went through, but proud of my team regardless.",
+      "team": true,
+      "equipo": "Chile ([GS]Myuka, Rhyzt_cL, Xan-, Jeanne Da Rin, faz_cL, niflox)",
+      "imagen": "https://i.ppy.sh/ef0312b6f160897a8ad3a8ba5d07953e0c25fc1f/68747470733a2f2f6f73752e7070792e73682f77696b692f696d616765732f546f75726e616d656e74732f4d57432f323032325f344b2f696d672f6d7763346b323032325f62616e6e65722e6a7067",
+      "enlace": "https://osu.ppy.sh/wiki/en/Tournaments/MWC/2022_4K"
+    },
+    {
+      "torneo": "Speed of Light 3",
+      "puesto": "1st place",
+      "anio": 2023,
+      "modo": "mania",
+      "descripcion": "Hardest tournament I've ever played when it comes to the mappools, happy to have won such a high level tournament alongside one of my biggest inspirations and friends in this community.",
+      "team": true,
+      "equipo": "irregular team (me and cheewee10)",
+      "imagen": "https://i.ppy.sh/ecd533a3359750f3de74b1c5202af30675eb272c/68747470733a2f2f6f73752e7070792e73682f77696b692f696d616765732f546f75726e616d656e74732f534f4c2f323032332f696d672f62616e6e65722e6a7067",
+      "enlace": "https://osu.ppy.sh/wiki/en/Tournaments/SOL/2023"
+    },
+    {
+      "torneo": "osu!mania 4K World Cup 2023",
+      "puesto": "Top 12-8th (lost to Indonesia 2-7 in semifinals)",
+      "anio": 2023,
+      "modo": "mania",
+      "descripcion": "One of the most memorable world cups I've played, it was a very exciting world cup with ups and downs where we proved that we were more than capable of being a top team, and I'm very proud of my team and the performance we had and for the memories.",
+      "team": true,
+      "equipo": "Chile (myucchii, [LS]bambi fnf, [REG]Seika, MyAngelKokomi, nyawaa, Xan-)",
+      "imagen": "https://i.ppy.sh/ea4dae48801f625249505b59a989f4d960aa2d94/68747470733a2f2f6f73752e7070792e73682f77696b692f696d616765732f546f75726e616d656e74732f4d57432f323032335f344b2f696d672f6d7763346b323032332d62616e6e65722e6a7067",
+      "enlace": "https://osu.ppy.sh/wiki/en/Tournaments/MWC/2023_4K"
+    },
+    {
+      "torneo": "International Rhythm League: Mania 2023",
+      "puesto": "1st place",
+      "anio": 2023,
+      "modo": "mania",
+      "descripcion": "It was kinda fun but seems like we ruined the tournament something like that, but I really liked it specially playing with great friends yet again",
+      "team": true,
+      "equipo": "Chicago Bulls (myucchii, Nepijin, Poca, Reshiram, Brisket Bacon)",
+      "imagen": "https://i.ppy.sh/da93fdbb737c144f73b5100cbe365d9c51bc7c4e/68747470733a2f2f696d6775722d617263686976652e7070792e73682f646973636f72642f313130363936343939383539303331323435392d313136333230353539353435333733303834372d696e7465726e6174696f6e616c5f72687974686d5f6c65616775652e706e673f65783d36353365626161312669733d363532633435613126686d3d3335346430306135393932323630366638616238626666663931613836316435613539613932366163373861393239363630346466306264313133313563616426",
+      "enlace": "https://osu.ppy.sh/community/forums/topics/1833592?n=1"
+    },
+    {
+      "torneo": "Jack House Cup 2024",
+      "puesto": "1st place",
+      "anio": 2024,
+      "modo": "mania",
+      "descripcion": "Another scuffed tournament TBH but glad to help my friend Nate get his first badge.",
+      "team": true,
+      "equipo": "wehehe (me and Eliminate)",
+      "imagen": "https://i.ppy.sh/6db1110d6cdf9ebeef0a2ea00f57c4da411e18cb/68747470733a2f2f6f73752e7070792e73682f77696b692f696d616765732f546f75726e616d656e74732f4a48432f4a48435f323032342f696d672f4a48432d323032342d62616e6e65722e6a7067",
+      "enlace": "https://osu.ppy.sh/wiki/en/Tournaments/JHC/JHC_2024"
+    },
+    {
+      "torneo": "Mania Collegiate League Spring 2024",
+      "puesto": "1st place",
+      "anio": 2024,
+      "modo": "mania",
+      "descripcion": "Very fun tournament, good pools and got a couple of 100% scores.",
+      "team": true,
+      "equipo": "INACAP (me and Naito Mare)",
+      "imagen": "https://i.ibb.co/DPBXvhwq/image.png",
+      "enlace": "https://osu.ppy.sh/community/forums/topics/1894746?n=1"
+    },
+    {
+      "torneo": "osu!mania 4K World Cup 2024",
+      "puesto": "Top 6-5th (lost to China 1-7 in Finals)",
+      "anio": 2024,
+      "modo": "mania",
+      "descripcion": "Probably one of the worst experiences and best experiences I've had with a World Cup to be honest, glad to be able to get so far into a tournament with so many stacked teams.",
+      "team": true,
+      "equipo": "Chile (MyAngelKokomi, myucchii, [LS]bambi fnf, Urusai, Xan-, b3njvv2)",
+      "imagen": "https://i.ppy.sh/f58d3decfa0ab5f899f0913ad1c53abbcda0694a/68747470733a2f2f6f73752e7070792e73682f77696b692f696d616765732f546f75726e616d656e74732f4d57432f323032345f344b2f696d672f6d7763346b323032342d62616e6e65722e6a7067",
+      "enlace": "https://osu.ppy.sh/community/forums/topics/1894746?n=1"
+    },
+    {
+      "torneo": "Touhou Project Mania Cup 4th",
+      "puesto": "Top 6-5th (lost to Chodan 3-7 in Finals)",
+      "anio": 2025,
+      "modo": "mania",
+      "descripcion": "This tournament made me realize the passion I still have for competition overall and that I'm very capable of performing really well and I'm thankful for my teammates for helping me out when I needed it the most.",
+      "team": true,
+      "equipo": "Retirados y Peligrosos (myucchii, LeMarcinho, fefedk, MyAngelKokomi)",
+      "imagen": "https://i.ppy.sh/caec772d29f11c1d867641c8eb6faa505a2cf5a0/68747470733a2f2f6f73752e7070792e73682f77696b692f696d616765732f546f75726e616d656e74732f544d432f3474682f696d672f62616e6e65724032782e6a7067",
+      "enlace": "https://osu.ppy.sh/wiki/en/Tournaments/TMC/4th"
+    }
+  ]
+}
