@@ -56,7 +56,8 @@ fetch('/kl3hh.io/data/skins.json')
     });
   })
   .catch(err => {
-    console.error("Error cargando las skins:", err);
+    console.error("Error loading skins:", err);
   });
+
 
 
